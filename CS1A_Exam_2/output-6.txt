@@ -1,0 +1,45 @@
+Enter a  valid age (between 0 and 100 inclusive):
+100
+
+Valid age entered: 100
+
+Multiplier Function 1 --> 2 * 5 = 10
+Multiplier Function 2 --> 6.0 * 2 = 12
+Multiplier Function 3 --> 5.2 * 2.3 = 11.96
+
+The max between 5.4 and 6.2 is 6.2
+The max between -5 and -4 is -4
+The max between 'a' and 'A' is a
+
+String comparison rules are: the first string parameter comes first alphabetically, return -1. If it comes after, return
+ 1. If they are equal return 0.
+'apple' and 'BANANA' return's: 1
+'water' and 'WATER' return's: 0
+'watermelon' and 'WATER' return's: 1
+'pine' and 'PINEAPPLE' return's: -1
+'CS1A' and 'cs1a' return's: 0
+
+Rules for palindrome check: if it is a palindrome 1 is returned and if it isn't 0 is returned instead.
+'mom' return's 1
+'abcabc' return's 0
+'abcdcba' return's 1
+
+Check the sum and average from of 10 positive integers. Test with numbers 1-10 inclusive:
+Sum: 55, Average: 5.5
+
+Check if ValidPass1, NoHomework2024, and Short are valid passwords with the rules stated in exam questions:
+ValidPass1 is a valid password
+NoHomework2024 is a valid password
+Short is not a valid password
+
+Check the total amount of vowels, including the amount of each vowel, in surprise:
+Total vowels: 3
+a: 0, e: 1, i: 1, o: 0, u: 1
+In aerospace:
+Total vowels: 5
+a: 2, e: 2, i: 0, o: 1, u: 0
+
+Rules for a valid email: must contain only one '@' and at least one '.'. Will return 1 if valid and 0 if invalid.
+shahob_code@gmail.com return's 1
+invalidemail.org100 return's 0
+@found.lost return's 1

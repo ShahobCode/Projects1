@@ -1,0 +1,24 @@
+Print the matrix's with all elements as 1.000, 2.000, and the last matrix having each element of the previous two matrix's added together: 
+MATRIX ONE:
+     1.000     1.000     1.000     1.000
+     1.000     1.000     1.000     1.000
+     1.000     1.000     1.000     1.000
+
+MATRIX TWO:
+     2.000     2.000     2.000     2.000
+     2.000     2.000     2.000     2.000
+     2.000     2.000     2.000     2.000
+
+SUM MATRIX:
+     3.000     3.000     3.000     3.000
+     3.000     3.000     3.000     3.000
+     3.000     3.000     3.000     3.000
+
+
+
+Checking 5 boards to see if there is a winner (1) or no winner (0):
+Board 1: 1
+Board 2: 1
+Board 3: 1
+Board 4: 1
+Board 5: 0
